@@ -1,3 +1,4 @@
+//Se enciende y se apaga cada 1 segundo.
 int tiempo=200;
 void setup
 {

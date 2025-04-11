@@ -1,4 +1,4 @@
-#Se enciende graduando el brillo de menos a mas y luego demas a menos se apaga.
+//Se enciende graduando el brillo de menos a mas y luego demas a menos se apaga.
 void setup()
 {
     //no es necesario definir puertos de salida con la instruccion analogwrite

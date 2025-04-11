@@ -1,4 +1,4 @@
-#Se enciende uno y cuando se apaga se enciende otro asi en bucle.
+//Se enciende uno y cuando se apaga se enciende otro asi en bucle.
 int tiempo=200;
 int pin;
 void setup()

@@ -1,3 +1,4 @@
+//Cuando un objeto este a 50cm o menos los led se encienden y si estan a mas de 50cm se apagan.
 char dato;
 float tiempo;
 float distancia;

@@ -1,4 +1,4 @@
-Se enciende de izquierda a derecha.
+//Se enciende de izquierda a derecha.
 int tiempo=100;
 int pin;
 void setup()

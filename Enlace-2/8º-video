@@ -1,3 +1,4 @@
+//Si enviamos 'a' se enciende, si enviamos 'b' se apaga, si enviamos 'c' se enciende uno y despues otro y si enviamos 'd' se enciende de dos en dos.
 char dato;
 void setup()
 {

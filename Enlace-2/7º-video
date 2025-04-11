@@ -1,3 +1,4 @@
+//Si enviamos letra 'p' se enciende los led, si enviamos la letra 'w' los led se apagan y si enviamos la letra 'v' se encinde y se apaga en bucle.
 char valor;
 void setup()
 {

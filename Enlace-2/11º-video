@@ -1,3 +1,4 @@
+//Si enviamos 'w' se enciende, si enviamos 'l' se apaga, si enviamos 'm' se enciende uno y despues otro y si enviamos cualquier otra letra En el monitor pondra "valor no aceptado".
 char dato;
 float tiempo;
 float distancia;

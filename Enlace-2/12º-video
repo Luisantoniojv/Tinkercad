@@ -1,3 +1,4 @@
+//Cuando el sensor detecta algo a menos de 100cm el motor se abre y se enciende el led verde y si esta a menos de 100cm se apaga y el motor se cierra.
 #incluide<Servo.h>
 
 Servo servo1;

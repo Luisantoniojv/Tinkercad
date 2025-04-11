@@ -1,4 +1,4 @@
-#Led parpadea.
+//Led parpadea.
 void setup()
 {
     pinMode(13,OUTPUT);

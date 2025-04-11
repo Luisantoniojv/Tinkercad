@@ -1,3 +1,4 @@
+//si enviamos 'a' los led parpadean 5 veces y si enviamos 'b' parpadean 10 veces.
 char dato;
 void setup()
 {

@@ -1,3 +1,4 @@
+//Si cualquier numero es menor que 3 se enciende y se apaga, pero si es mayor que 3 se queda encendido.
 void setup()
 {
     pinMode(8,OUTPUT);

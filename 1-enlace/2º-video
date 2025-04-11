@@ -1,4 +1,4 @@
-#Se enciende un led y cuando se apaga se enciende otro asi en bucle.
+//Se enciende un led y cuando se apaga se enciende otro asi en bucle.
 int LedRojo=12;
 int LedAzul=11;
 int LedAmarillo=10;
